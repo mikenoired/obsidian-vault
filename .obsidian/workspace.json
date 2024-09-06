@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "8a6a5832df08d0e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "58785b52c1e7ebfa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9fef10bad0742c8d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b00f510cf44affdf",
+    "type": "split",
+    "children": [
+      {
+        "id": "dcb610f290b51242",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37d2b2dde0d29335",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7c347857d89c991b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f1ae93169f80c4fd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 234.5
+  },
+  "right": {
+    "id": "1baa20d62da6005e",
+    "type": "split",
+    "children": [
+      {
+        "id": "255aa3419bd3a5f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae1f93a300677859",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6ca5fd5f4dd179e1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "34a2a32743602936",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "76fa8e519381294d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "53d05b1969755c9f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "9fef10bad0742c8d",
+  "lastOpenFiles": [
+    "Теоретические основы БЖД.md",
+    "Pasted image 20240416122622.png",
+    "Pasted image 20240416121834.png",
+    "Понятия \"Операционные системы\".md",
+    "Pasted image 20240326022145.png",
+    "Pasted image 20240326022131.png",
+    "Pasted image 20240318232808.png",
+    "Pasted image 20240318232729.png",
+    "Pasted image 20240318232658.png",
+    "Pasted image 20240318232401.png",
+    "Pasted image 20240318232245.png",
+    "Pasted image 20240318232134.png",
+    "Portfolio/ToDo.md",
+    "2. Реализм как литературное направление и художественный метод.md",
+    "Реализм как литературное направление и художественный метод.md",
+    "Список людей и их деятельности.md",
+    "Словарь терминов по истории России.md",
+    "Просвещение во Франции. Французская философская проза (Вольтер, Д. Дидро).md",
+    "Список вопросов.md",
+    "Философия.md",
+    "Конспект по вопросам к экзамену по Истории.md",
+    "Фриланс форма.md",
+    "Обращение по ТЗ.md",
+    "English Elite Club.md",
+    "gdsgds.md",
+    "Design brief.md",
+    "НХК Портфолио.md",
+    "Конспекты культурология.md",
+    "Кафкинианство в моей жизни.md",
+    "История российской фотографии. Прокудин-Горский..md",
+    "История документального кино 20-21 века в России.md",
+    "Без названия.canvas",
+    "Дизайн.md",
+    "Аудиокарты бате.md",
+    "Автосообщения.md",
+    "Тестовая работа игра.md",
+    "Portfolio"
+  ]
+}
