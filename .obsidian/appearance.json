@@ -1,4 +1,8 @@
 {
   "accentColor": "",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "cssTheme": "Catppuccin",
+  "interfaceFontFamily": "Onest",
+  "textFontFamily": "Onest",
+  "monospaceFontFamily": "MonaspiceAr Nerd Font"
 }

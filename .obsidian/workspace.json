@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "58785b52c1e7ebfa",
+        "id": "72b1d83a3e58f26a",
         "type": "tabs",
         "children": [
           {
-            "id": "9fef10bad0742c8d",
+            "id": "7bc806e82bfe6fdd",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#ДГТУ/Лекция",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -60,12 +60,20 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "76fa8e519381294d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 234.5
+    "width": 307.00390243530273
   },
   "right": {
     "id": "1baa20d62da6005e",
@@ -73,6 +81,32 @@
     "children": [
       {
         "id": "255aa3419bd3a5f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34a2a32743602936",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "17e9bbbca4f8c813",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "11031a5db86c68e8",
         "type": "tabs",
         "children": [
           {
@@ -103,25 +137,6 @@
             }
           },
           {
-            "id": "34a2a32743602936",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "76fa8e519381294d",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
-            }
-          },
-          {
             "id": "53d05b1969755c9f",
             "type": "leaf",
             "state": {
@@ -130,11 +145,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 301
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -144,47 +159,59 @@
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-projects:Open projects": false
     }
   },
-  "active": "9fef10bad0742c8d",
+  "active": "53d05b1969755c9f",
   "lastOpenFiles": [
-    "Теоретические основы БЖД.md",
+    "Dev notes/Tauri/Рабочая среда.md",
+    "Emulse/Emulse.md",
+    "Emulse/Ссылки-файлы.md",
+    "Emulse/Ссылки.md",
+    "Emulse/Общее описание.md",
+    "Emulse/Матрица.md",
+    "Emulse/Матрица/Основная таблица/Пользовательский опыт, 2 недели.md",
+    "Emulse/Матрица/Основная таблица/Рефакторинг и оптимизация, 1 месяц.md",
+    "Emulse/Матрица/Основная таблица/Программирование, 6 месяцев.md",
+    "Emulse/Матрица/Основная таблица/Загрузка программы в сеть Интернет, 2 месяца.md",
+    "Emulse/Матрица/Основная таблица/Добавление и удаление функционала, 1 месяц.md",
+    "Emulse/Матрица/Основная таблица/Дизайн интерфейса, 2 месяца.md",
+    "Emulse/Бюро идей/Кастомные темы.md",
+    "Emulse/Бюро идей/Бюро идей.md",
+    "Emulse/Бюро идей/Card 1.md",
+    "Emulse/Бюро идей/Card 3.md",
+    "Emulse/Бюро идей/Card 2.md",
+    "zen.read/Разработка/Разработка.md",
+    "zen.read/Разработка/Daily tasks/Config functions by invoke.md",
+    "zen.read/Разработка/Daily tasks.md",
+    "zen.read/UI-UX/UI-UX.md",
+    "zen.read/UI-UX/Remote Brainstorming.md",
+    "zen.read/UI-UX/Иконки/Минус.md",
+    "zen.read/UI-UX/Иконки/Книга.md",
+    "zen.read/UI-UX/Иконки/Доступность.md",
+    "zen.read/UI-UX/Иконки/Готово.md",
+    "Projects - Demo Project",
+    "Шаблоны",
+    "icon_512x5122x2x.png",
+    "icon.png",
+    "ДГТУ/ОС",
+    "ДГТУ/БЖД",
+    "ДГТУ/1 курс/Философия",
+    "ДГТУ/1 курс/ОРГ",
+    "ДГТУ/1 курс/Культурология",
+    "ДГТУ/1 курс/История",
+    "ДГТУ/1 курс/Коммуникация",
+    "ДГТУ/1 курс/НХК",
+    "Untitled 1.png",
+    "Untitled.png",
+    "Pasted image 20240906104803.png",
     "Pasted image 20240416122622.png",
     "Pasted image 20240416121834.png",
-    "Понятия \"Операционные системы\".md",
     "Pasted image 20240326022145.png",
     "Pasted image 20240326022131.png",
     "Pasted image 20240318232808.png",
-    "Pasted image 20240318232729.png",
-    "Pasted image 20240318232658.png",
-    "Pasted image 20240318232401.png",
-    "Pasted image 20240318232245.png",
-    "Pasted image 20240318232134.png",
-    "Portfolio/ToDo.md",
-    "2. Реализм как литературное направление и художественный метод.md",
-    "Реализм как литературное направление и художественный метод.md",
-    "Список людей и их деятельности.md",
-    "Словарь терминов по истории России.md",
-    "Просвещение во Франции. Французская философская проза (Вольтер, Д. Дидро).md",
-    "Список вопросов.md",
-    "Философия.md",
-    "Конспект по вопросам к экзамену по Истории.md",
-    "Фриланс форма.md",
-    "Обращение по ТЗ.md",
-    "English Elite Club.md",
-    "gdsgds.md",
-    "Design brief.md",
-    "НХК Портфолио.md",
-    "Конспекты культурология.md",
-    "Кафкинианство в моей жизни.md",
-    "История российской фотографии. Прокудин-Горский..md",
-    "История документального кино 20-21 века в России.md",
-    "Без названия.canvas",
-    "Дизайн.md",
-    "Аудиокарты бате.md",
-    "Автосообщения.md",
-    "Тестовая работа игра.md",
-    "Portfolio"
+    "Без названия.canvas"
   ]
 }

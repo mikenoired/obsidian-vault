@@ -1,4 +1,7 @@
 [
   "obsidian-kanban",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-importer",
+  "emoji-shortcodes",
+  "obsidian-projects"
 ]
