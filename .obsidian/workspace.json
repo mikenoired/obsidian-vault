@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "72b1d83a3e58f26a",
+        "id": "7f611c5b1160fa67",
         "type": "tabs",
         "children": [
           {
-            "id": "7bc806e82bfe6fdd",
+            "id": "ca247339498a0b58",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Работа/Glyphic/План работы/8 сентября 2024.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -66,7 +70,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Работа/Glyphic/План работы/8 сентября 2024.md"
+              }
             }
           }
         ]
@@ -82,6 +88,7 @@
       {
         "id": "255aa3419bd3a5f9",
         "type": "tabs",
+        "dimension": 47.688564476885645,
         "children": [
           {
             "id": "34a2a32743602936",
@@ -101,6 +108,14 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "acf38be730463185",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
         "currentTab": 1
@@ -108,6 +123,7 @@
       {
         "id": "11031a5db86c68e8",
         "type": "tabs",
+        "dimension": 52.311435523114355,
         "children": [
           {
             "id": "ae1f93a300677859",
@@ -115,6 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Работа/Glyphic/План работы/8 сентября 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,6 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Работа/Glyphic/План работы/8 сентября 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,44 +184,44 @@
   },
   "active": "53d05b1969755c9f",
   "lastOpenFiles": [
-    "Dev notes/Tauri/Рабочая среда.md",
-    "Emulse/Emulse.md",
-    "Emulse/Ссылки-файлы.md",
-    "Emulse/Ссылки.md",
-    "Emulse/Общее описание.md",
-    "Emulse/Матрица.md",
-    "Emulse/Матрица/Основная таблица/Пользовательский опыт, 2 недели.md",
-    "Emulse/Матрица/Основная таблица/Рефакторинг и оптимизация, 1 месяц.md",
-    "Emulse/Матрица/Основная таблица/Программирование, 6 месяцев.md",
-    "Emulse/Матрица/Основная таблица/Загрузка программы в сеть Интернет, 2 месяца.md",
-    "Emulse/Матрица/Основная таблица/Добавление и удаление функционала, 1 месяц.md",
-    "Emulse/Матрица/Основная таблица/Дизайн интерфейса, 2 месяца.md",
-    "Emulse/Бюро идей/Кастомные темы.md",
-    "Emulse/Бюро идей/Бюро идей.md",
-    "Emulse/Бюро идей/Card 1.md",
-    "Emulse/Бюро идей/Card 3.md",
-    "Emulse/Бюро идей/Card 2.md",
-    "zen.read/Разработка/Разработка.md",
-    "zen.read/Разработка/Daily tasks/Config functions by invoke.md",
+    "Работа/Glyphic/План работы/8 сентября 2024.md",
+    "Pasted image 20240908213427.png",
+    "Ежедневник/Дни/2024-09-08.md",
+    "Заметки прогера/Python/numpy/where().md",
+    "Заметки прогера/Python/numpy/numpy.md",
+    "Заметки прогера/Python/numpy/mean().md",
+    "Заметки прогера/Python/numpy/shape().md",
+    "Заметки прогера/Python/OpenCV/OpenCV.md",
+    "Заметки прогера/Python/Python.md",
+    "Заметки прогера/Python/numpy",
+    "Заметки прогера/Заметки прогера.md",
+    "Заметки прогера/Python/OpenCV/Без названия.md",
+    "Заметки прогера/Python/OpenCV",
+    "Заметки прогера/Python",
+    "Работа/Glyphic/План работы.md",
+    "Ежедневник/Дни.md",
+    "Работа/Glyphic/План работы/7 сентября 2024.md",
+    "Ежедневник/Дни/2024-09-07.md",
+    "Ежедневник/Дни",
+    "Заметки прогера/Tauri/Tauri.md",
+    "Заметки прогера/Tauri/Рабочая среда.md",
+    "Заметки прогера/Tauri/Иконки?.md",
+    "README.md",
+    "gdsgd.md",
     "zen.read/Разработка/Daily tasks.md",
-    "zen.read/UI-UX/UI-UX.md",
+    "Работа/Работа.md",
+    "Работа/Glyphic/Glyphic.md",
+    "Ежедневник/Дни/2024-09-06.md",
     "zen.read/UI-UX/Remote Brainstorming.md",
-    "zen.read/UI-UX/Иконки/Минус.md",
-    "zen.read/UI-UX/Иконки/Книга.md",
-    "zen.read/UI-UX/Иконки/Доступность.md",
-    "zen.read/UI-UX/Иконки/Готово.md",
+    "Работа/Glyphic/План работы/6 сентября 2024.md",
+    "Ежедневник",
+    "Работа/Glyphic/План работы",
+    "Работа/Glyphic",
+    "Работа",
     "Projects - Demo Project",
     "Шаблоны",
     "icon_512x5122x2x.png",
     "icon.png",
-    "ДГТУ/ОС",
-    "ДГТУ/БЖД",
-    "ДГТУ/1 курс/Философия",
-    "ДГТУ/1 курс/ОРГ",
-    "ДГТУ/1 курс/Культурология",
-    "ДГТУ/1 курс/История",
-    "ДГТУ/1 курс/Коммуникация",
-    "ДГТУ/1 курс/НХК",
     "Untitled 1.png",
     "Untitled.png",
     "Pasted image 20240906104803.png",
@@ -211,7 +229,6 @@
     "Pasted image 20240416121834.png",
     "Pasted image 20240326022145.png",
     "Pasted image 20240326022131.png",
-    "Pasted image 20240318232808.png",
     "Без названия.canvas"
   ]
 }

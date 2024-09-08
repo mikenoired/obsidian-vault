@@ -6,4 +6,4 @@
 | [[Flexible design]]                  | Not started | Accessbility |
 | [[Testing by Vitest]]                | Not started | Feature      |
 | [[Designed window bar on macOS]]     | Not started | Feature      |
-| [[Config functions by invoke]]       | In progress | Feature      |
+| [[Config functions by invoke]]       | Done        | Feature      |

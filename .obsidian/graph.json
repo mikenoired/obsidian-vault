@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#ДГТУ  ",
@@ -20,11 +20,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.577015844743775,
   "repelStrength": 11.4794612044974,
   "linkStrength": 1,
   "linkDistance": 151,
-  "scale": 0.26894662964119403,
+  "scale": 0.21829907855821512,
   "close": true
 }
