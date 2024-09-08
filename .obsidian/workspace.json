@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2f27a566789385d0",
+        "id": "c76a3cde20d088fd",
         "type": "tabs",
         "children": [
           {
-            "id": "42fbad23a3e2de3b",
+            "id": "8e0749f6f7eb43a6",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Операци",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -174,14 +174,25 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "42fbad23a3e2de3b",
+  "active": "37d2b2dde0d29335",
   "lastOpenFiles": [
+    "Проекты",
+    "Ежедневник/Дни/2024-09-08.md",
+    "ДГТУ/Интерфейс/Лабораторная работа №1.md",
+    "Лаба1.pdf",
+    "Pasted image 20240908233824.png",
+    "Pasted image 20240908233612.png",
+    "Pasted image 20240908233552.png",
+    "Pasted image 20240908232113.png",
+    "ДГТУ/1 курс/ОРГ/Выдающиеся люди.md",
+    "ДГТУ/Интерфейс/Интерфейс.md",
+    "ДГТУ/ДГТУ.md",
+    "ДГТУ/Интерфейс",
     "README.md",
     "ДГТУ/ОС/Понятия \"Операционные системы\".md",
     "Ежедневник/Дни/2024-09-06.md",
     "Работа/Glyphic/План работы/8 сентября 2024.md",
     "Pasted image 20240908213427.png",
-    "Ежедневник/Дни/2024-09-08.md",
     "Заметки прогера/Python/numpy/where().md",
     "Заметки прогера/Python/numpy/numpy.md",
     "Заметки прогера/Python/numpy/mean().md",
@@ -202,26 +213,15 @@
     "Заметки прогера/Tauri/Рабочая среда.md",
     "Заметки прогера/Tauri/Иконки?.md",
     "gdsgd.md",
-    "zen.read/Разработка/Daily tasks.md",
-    "Работа/Работа.md",
-    "Работа/Glyphic/Glyphic.md",
-    "zen.read/UI-UX/Remote Brainstorming.md",
-    "Работа/Glyphic/План работы/6 сентября 2024.md",
     "Ежедневник",
     "Работа/Glyphic/План работы",
     "Работа/Glyphic",
     "Работа",
-    "Projects - Demo Project",
-    "Шаблоны",
     "icon_512x5122x2x.png",
     "icon.png",
     "Untitled 1.png",
     "Untitled.png",
     "Pasted image 20240906104803.png",
-    "Pasted image 20240416122622.png",
-    "Pasted image 20240416121834.png",
-    "Pasted image 20240326022145.png",
-    "Pasted image 20240326022131.png",
     "Без названия.canvas"
   ]
 }
