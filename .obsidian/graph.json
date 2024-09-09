@@ -5,13 +5,27 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#ДГТУ  ",
       "color": {
         "a": 1,
         "rgb": 14048348
+      }
+    },
+    {
+      "query": "tag:#Day  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "tag:#DevNotes  ",
+      "color": {
+        "a": 1,
+        "rgb": 9130720
       }
     }
   ],
@@ -25,6 +39,6 @@
   "repelStrength": 11.4794612044974,
   "linkStrength": 1,
   "linkDistance": 151,
-  "scale": 0.22567494570598862,
+  "scale": 0.22274351089485436,
   "close": true
 }

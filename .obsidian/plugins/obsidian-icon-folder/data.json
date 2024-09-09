@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiScrollText",
       "LiWind",
       "LiFileCheck",
       "LiImage",
-      "LiToyBrick",
-      "LiWorkflow"
+      "LiToyBrick"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -39,5 +39,7 @@
   "Работа": "LiWorkflow",
   "Шаблоны": "LiToyBrick",
   "Проекты": "LiFileCheck",
-  "Свободные заметки": "LiWind"
+  "Свободные заметки": "LiWind",
+  "Media": "LiImage",
+  "README.md": "LiScrollText"
 }

@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "c76a3cde20d088fd",
+        "id": "7ee7384c483aa242",
         "type": "tabs",
         "children": [
           {
-            "id": "8e0749f6f7eb43a6",
+            "id": "882dfc4f39b9bab1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Заметки прогера/Заметки прогера.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.00390243530273
+    "width": 261.00390243530273
   },
   "right": {
     "id": "1baa20d62da6005e",
@@ -82,7 +86,7 @@
       {
         "id": "255aa3419bd3a5f9",
         "type": "tabs",
-        "dimension": 47.688564476885645,
+        "dimension": 47.68856447688565,
         "children": [
           {
             "id": "34a2a32743602936",
@@ -117,7 +121,7 @@
       {
         "id": "11031a5db86c68e8",
         "type": "tabs",
-        "dimension": 52.311435523114355,
+        "dimension": 52.31143552311435,
         "children": [
           {
             "id": "ae1f93a300677859",
@@ -174,54 +178,54 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "37d2b2dde0d29335",
+  "active": "17e9bbbca4f8c813",
   "lastOpenFiles": [
-    "Проекты",
-    "Ежедневник/Дни/2024-09-08.md",
-    "ДГТУ/Интерфейс/Лабораторная работа №1.md",
-    "Лаба1.pdf",
-    "Pasted image 20240908233824.png",
-    "Pasted image 20240908233612.png",
-    "Pasted image 20240908233552.png",
-    "Pasted image 20240908232113.png",
-    "ДГТУ/1 курс/ОРГ/Выдающиеся люди.md",
-    "ДГТУ/Интерфейс/Интерфейс.md",
-    "ДГТУ/ДГТУ.md",
-    "ДГТУ/Интерфейс",
-    "README.md",
-    "ДГТУ/ОС/Понятия \"Операционные системы\".md",
-    "Ежедневник/Дни/2024-09-06.md",
-    "Работа/Glyphic/План работы/8 сентября 2024.md",
-    "Pasted image 20240908213427.png",
+    "Заметки прогера/Заметки прогера.md",
     "Заметки прогера/Python/numpy/where().md",
+    "Заметки прогера/Python/numpy/shape().md",
     "Заметки прогера/Python/numpy/numpy.md",
     "Заметки прогера/Python/numpy/mean().md",
-    "Заметки прогера/Python/numpy/shape().md",
     "Заметки прогера/Python/OpenCV/OpenCV.md",
     "Заметки прогера/Python/Python.md",
-    "Заметки прогера/Python/numpy",
-    "Заметки прогера/Заметки прогера.md",
-    "Заметки прогера/Python/OpenCV/Без названия.md",
-    "Заметки прогера/Python/OpenCV",
-    "Заметки прогера/Python",
-    "Работа/Glyphic/План работы.md",
-    "Ежедневник/Дни.md",
-    "Работа/Glyphic/План работы/7 сентября 2024.md",
-    "Ежедневник/Дни/2024-09-07.md",
-    "Ежедневник/Дни",
     "Заметки прогера/Tauri/Tauri.md",
     "Заметки прогера/Tauri/Рабочая среда.md",
     "Заметки прогера/Tauri/Иконки?.md",
-    "gdsgd.md",
+    "Ежедневник/Дни.md",
+    "Ежедневник/Дни/2024-09-09.md",
+    "Ежедневник/Дни/2024-09-08.md",
+    "Ежедневник/Дни/2024-09-07.md",
+    "Ежедневник/Дни/2024-09-06.md",
+    "ДГТУ/1 курс/1 курс.md",
+    "ДГТУ/БЖД/БЖД.md",
+    "ДГТУ/Интерфейс/Интерфейс.md",
+    "ДГТУ/ОС/ОС.md",
+    "Media/Untitled.png",
+    "Работа/Glyphic/План работы/9 сентября 2024.md",
+    "Media/Лаба1.pdf",
+    "Media",
+    "Media/Pasted image 20240909224938.png",
+    "ДГТУ/Интерфейс/Лабораторная работа №1.md",
+    "Работа/Glyphic/План работы.md",
+    "Проекты/Проекты.md",
+    "Проекты/StyleWrap/StyleWrap.md",
+    "Проекты/StyleWrap",
+    "Media/Pasted image 20240908233552.png",
+    "Проекты",
+    "Media/Pasted image 20240908233824.png",
+    "Media/Pasted image 20240908233612.png",
+    "Media/Pasted image 20240908232113.png",
+    "ДГТУ/1 курс/ОРГ/Выдающиеся люди.md",
+    "ДГТУ/ДГТУ.md",
+    "ДГТУ/Интерфейс",
+    "Media/Pasted image 20240908213427.png",
+    "Заметки прогера/Python/numpy",
+    "Заметки прогера/Python/OpenCV",
+    "Заметки прогера/Python",
+    "Ежедневник/Дни",
     "Ежедневник",
-    "Работа/Glyphic/План работы",
-    "Работа/Glyphic",
-    "Работа",
     "icon_512x5122x2x.png",
     "icon.png",
-    "Untitled 1.png",
-    "Untitled.png",
-    "Pasted image 20240906104803.png",
+    "Media/Untitled 1.png",
     "Без названия.canvas"
   ]
 }

@@ -7,5 +7,7 @@
     "downscalePercent": 100
   },
   "promptDelete": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "vimMode": false,
+  "attachmentFolderPath": "Media"
 }
