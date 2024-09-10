@@ -33,13 +33,13 @@
     "lucideIconPackType": "native",
     "debugMode": false
   },
-  "ДГТУ": "LiSchool",
-  "Ежедневник": "LiCalendar",
-  "Заметки прогера": "LiLibrary",
-  "Работа": "LiWorkflow",
-  "Шаблоны": "LiToyBrick",
-  "Проекты": "LiFileCheck",
-  "Свободные заметки": "LiWind",
-  "Media": "LiImage",
-  "README.md": "LiScrollText"
+  "README.md": "LiScrollText",
+  "01 - Ежедневник": "LiCalendar",
+  "02 - ДГТУ": "LiSchool",
+  "03 - Работа": "LiWorkflow",
+  "04 - Проекты": "LiFileCheck",
+  "05 - Заметки прогера": "LiLibrary",
+  "06 - Свободные заметки": "LiWind",
+  "07 - Media": "LiImage",
+  "99 - Шаблоны": "LiToyBrick"
 }

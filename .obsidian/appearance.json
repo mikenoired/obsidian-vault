@@ -2,11 +2,12 @@
   "accentColor": "",
   "theme": "obsidian",
   "cssTheme": "Catppuccin",
-  "interfaceFontFamily": "Onest",
-  "textFontFamily": "Onest",
-  "monospaceFontFamily": "MonaspiceAr Nerd Font",
+  "interfaceFontFamily": "JetBrainsMono Nerd Font",
+  "textFontFamily": "JetBrainsMono Nerd Font Mono",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font",
   "enabledCssSnippets": [
     "noneFolders",
-    "toolbarPretty"
+    "toolbarPretty",
+    "colorMainFolders"
   ]
 }
