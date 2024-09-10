@@ -1,13 +1,14 @@
 {
   "accentColor": "",
   "theme": "obsidian",
-  "cssTheme": "Catppuccin",
+  "cssTheme": "Vanilla AMOLED",
   "interfaceFontFamily": "JetBrainsMono Nerd Font",
   "textFontFamily": "JetBrainsMono Nerd Font Mono",
   "monospaceFontFamily": "JetBrainsMono Nerd Font",
   "enabledCssSnippets": [
     "noneFolders",
     "toolbarPretty",
-    "colorMainFolders"
+    "colorMainFolders",
+    "notebookBG"
   ]
 }

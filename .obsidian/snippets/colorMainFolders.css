@@ -15,7 +15,7 @@ customization. Just swap out the color variable names in the prefix groups.
 
 :root {
   /* ================================ Colors ================================ */
-  --red: #e22c3c;                /* Default Prefix: None */
+  --red: #e22c3c;                /* Default Prefix: 08 */
   --red-orange: #e9404b;         /* Default Prefix: None */
   --orange: #ee6748;             /* Default Prefix: None */
   --amber: #fa9f50;              /* Default Prefix: None */
@@ -557,6 +557,70 @@ these to suit your own folder structure and vault theme!
   --nav-indentation-guide-color: color-mix(
     in srgb,
     var(--hot-red) var(--medium-contrast-amount),
+    transparent
+  );
+}
+.tree-item-children
+  .nav-folder:has(.nav-folder-title[data-path^="07"])
+  .nav-file-title {
+  color: color-mix(
+    in srgb,
+    var(--hot-red) var(--medium-contrast-amount),
+    var(--default-text-color)
+  );
+  --nav-item-background-hover: color-mix(
+    in srgb,
+    color-mix(in srgb, var(--hot-red) 50%, var(--highlight))
+      var(--bg-contrast-amount),
+    transparent
+  );
+  --background-modifier-border-focus: color-mix(
+    in srgb,
+    var(--hot-red) 40%,
+    transparent
+  );
+  --nav-item-background-active: color-mix(
+    in srgb,
+    var(--hot-red) var(--active-contrast-amount),
+    transparent
+  );
+}
+
+/* ------------------------------- 08 Prefix -------------------------------- */
+.nav-folder-title[data-path^="08"] {
+  color: var(--red);
+  --nav-item-color-hover: color-mix(
+    in srgb,
+    var(--red) var(--fg-contrast-amount),
+    var(--contrast-color)
+  );
+  --nav-item-background-hover: color-mix(
+    in srgb,
+    var(--red) var(--bg-contrast-amount),
+    transparent
+  );
+  --background-modifier-border-focus: color-mix(
+    in srgb,
+    var(--red) 40%,
+    transparent
+  );
+  --nav-collapse-icon-color: color-mix(
+    in srgb,
+    var(--red) 60%,
+    transparent
+  );
+}
+.nav-folder-title[data-path^="08"]:hover {
+  --nav-collapse-icon-color: color-mix(
+    in srgb,
+    var(--red) 60%,
+    var(--contrast-color)
+  );
+}
+.tree-item-children .nav-folder:has(.nav-folder-title[data-path^="08"]) {
+  --nav-indentation-guide-color: color-mix(
+    in srgb,
+    var(--red) var(--medium-contrast-amount),
     transparent
   );
 }

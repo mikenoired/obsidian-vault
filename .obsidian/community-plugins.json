@@ -4,8 +4,12 @@
   "obsidian-importer",
   "emoji-shortcodes",
   "obsidian-projects",
-  "calendar",
   "editing-toolbar",
   "obsidian-icon-folder",
-  "settings-search"
+  "settings-search",
+  "calendar",
+  "obsidian-excalidraw-plugin",
+  "obsidian-smart-typography",
+  "homepage",
+  "obsidian-text-format"
 ]

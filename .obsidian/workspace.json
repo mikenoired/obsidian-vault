@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4406c343e77eb2eb",
+        "id": "57a6cdbd650d386d",
         "type": "tabs",
         "children": [
           {
-            "id": "0f607fc2d48a34de",
+            "id": "530176c4ac2b6312",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -104,7 +104,7 @@
             }
           },
           {
-            "id": "acf38be730463185",
+            "id": "41019692d1f2be04",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -171,11 +171,27 @@
       "command-palette:Открыть палитру команд": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-importer:Open Importer": false,
-      "obsidian-projects:Open projects": false
+      "obsidian-projects:Open projects": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "37d2b2dde0d29335",
+  "active": "17e9bbbca4f8c813",
   "lastOpenFiles": [
+    "05 - Заметки прогера/Tauri/Рабочая среда.md",
+    "08 - From Web/Горячие клавиши на все случаи жизни.md",
+    "08 - From Web/From Web.md",
+    "99 - Шаблоны/ДГТУ.md",
+    "99 - Шаблоны/From Web.md",
+    "08 - From Web/Что такое event loop?.md",
+    "08 - From Web",
+    "Excalidraw/Drawing 2024-09-11 01.32.17.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-11 01.31.58.excalidraw.md",
+    "Excalidraw",
+    "Excalidraw/Drawing 2024-09-11 01.31.29.excalidraw.md",
+    "Без названия.md",
+    "02 - ДГТУ/ОС/Понятия \"Операционные системы\".md",
+    "02 - ДГТУ/ОС/ОС.md",
     "02 - ДГТУ/1 курс/НХК/История документального кино 20-21 века в России.md",
     "04 - Проекты/Emulse/Бюро идей/Кастомные темы.md",
     "04 - Проекты/Emulse/Бюро идей/Бюро идей.md",
@@ -185,23 +201,11 @@
     "02 - ДГТУ/1 курс/Литра/Литра.md",
     "02 - ДГТУ/1 курс/Культурология/Культурология.md",
     "02 - ДГТУ/1 курс/Коммуникация/Коммуникация.md",
-    "02 - ДГТУ/ОС/ОС.md",
     "02 - ДГТУ/1 курс/История/История.md",
     "04 - Проекты/Emulse/Матрица.md",
     "Рефакторинг и оптимизация, 1 месяц.md",
     "Проекты/Emulse/Матрица/Основная таблица/Рефакторинг и оптимизация, 1 месяц.md",
     "Проекты/Emulse/Матрица/Основная таблица/Программирование, 6 месяцев.md",
-    "Проекты/Emulse/Матрица/Основная таблица/Пользовательский опыт, 2 недели.md",
-    "Проекты/Emulse/Матрица/Основная таблица/Загрузка программы в сеть Интернет, 2 месяца.md",
-    "Проекты/Emulse/Матрица/Основная таблица/Добавление и удаление функционала, 1 месяц.md",
-    "Проекты/Emulse/Матрица/Основная таблица/Дизайн интерфейса, 2 месяца.md",
-    "04 - Проекты/Проекты.md",
-    "03 - Работа/Glyphic/План работы/6 сентября 2024.md",
-    "03 - Работа/Glyphic/План работы/7 сентября 2024.md",
-    "03 - Работа/Glyphic/План работы/8 сентября 2024.md",
-    "03 - Работа/Glyphic/План работы/9 сентября 2024.md",
-    "03 - Работа/Glyphic/План работы/10 сентября 2024.md",
-    "03 - Работа/Glyphic/План работы/11 сентября 2024.md",
     "07 - Media/Untitled.png",
     "07 - Media/Лаба1.pdf",
     "07 - Media",
@@ -217,8 +221,6 @@
     "05 - Заметки прогера/Python/numpy",
     "05 - Заметки прогера/Python/OpenCV",
     "05 - Заметки прогера/Python",
-    "01 - Ежедневник/Дни",
-    "01 - Ежедневник",
     "icon_512x5122x2x.png",
     "icon.png",
     "07 - Media/Untitled 1.png",

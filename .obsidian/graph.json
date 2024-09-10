@@ -5,41 +5,48 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#ДГТУ  ",
       "color": {
         "a": 1,
-        "rgb": 14048348
+        "rgb": 5551864
       }
     },
     {
       "query": "tag:#Day  ",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 5366249
       }
     },
     {
       "query": "tag:#DevNotes  ",
       "color": {
         "a": 1,
-        "rgb": 9130720
+        "rgb": 13193709
       }
     },
     {
       "query": "tag:#Work",
       "color": {
         "a": 1,
-        "rgb": 5431378
+        "rgb": 4422899
       }
     },
     {
       "query": "tag:#Projects",
       "color": {
         "a": 1,
-        "rgb": 4212189
+        "rgb": 9717496
+      }
+    },
+    {
+      "query": "tag:#Web  ",
+      "color": {
+        "a": 1,
+        "rgb": 14822460
       }
     }
   ],
@@ -48,11 +55,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.577015844743775,
   "repelStrength": 11.4794612044974,
   "linkStrength": 1,
   "linkDistance": 151,
-  "scale": 0.2447401146299385,
+  "scale": 0.23175804643973472,
   "close": true
 }
