@@ -1,0 +1,8 @@
+#cMenuToolbarModalBar.cMenuToolbarDefaultAesthetic {
+  border-left: none;
+  border-right: none;
+}
+
+#cMenuToolbarModalBar {
+  border-radius: 0;
+}

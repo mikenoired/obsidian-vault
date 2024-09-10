@@ -6,6 +6,7 @@
   "textFontFamily": "Onest",
   "monospaceFontFamily": "MonaspiceAr Nerd Font",
   "enabledCssSnippets": [
-    "noneFolders"
+    "noneFolders",
+    "toolbarPretty"
   ]
 }
