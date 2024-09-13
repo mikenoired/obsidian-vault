@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "301c63bfe5c9186e",
+        "id": "d235f1d7658336f8",
         "type": "tabs",
         "children": [
           {
-            "id": "f09ae5ced984c15e",
+            "id": "ade4481af4bf667d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -184,23 +184,30 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "f09ae5ced984c15e",
+  "active": "ade4481af4bf667d",
   "lastOpenFiles": [
+    "05 - Заметки прогера/JS&TS/null vs undefined.md",
+    "05 - Заметки прогера/JS&TS/JS&TS.md",
+    "08 - From Web/From Web.md",
+    "08 - From Web/Исследование бездны null и undefined в JavaScript.md",
+    "05 - Заметки прогера/Заметки прогера.md",
+    "05 - Заметки прогера/JS&TS",
+    "03 - Работа/Procapital/План работы.md",
+    "03 - Работа/Procapital/План работы/13 сентября 2024.md",
+    "07 - Media/Pasted image 20240913183354.png",
+    "03 - Работа/Procapital/План работы/12 сентября 2024.md",
     "02 - ДГТУ/ОС/Некоторые характеристики современных ОС.md",
     "07 - Media/Pasted image 20240913123329.png",
     "01 - Ежедневник/Дни/2024-09-13.md",
     "01 - Ежедневник/Дни.md",
     "02 - ДГТУ/ОС/ОС.md",
-    "03 - Работа/Procapital/План работы/12 сентября 2024.md",
     "02 - ДГТУ/ОС/Понятия \"Операционные системы\". Часть 2..md",
     "01 - Ежедневник/Дни/2024-09-12.md",
-    "03 - Работа/Procapital/План работы.md",
     "03 - Работа/Procapital/Procapital.md",
     "2024-09-12.md",
     "02 - ДГТУ/ОС/Понятия \"Операционные системы\".md",
     "03 - Работа/Procapital/План работы/11 сентября 2024.md",
     "01 - Ежедневник/Дни/2024-09-11.md",
-    "08 - From Web/From Web.md",
     "08 - From Web/Полный гайд на LLM.md",
     "99 - Шаблоны/From Web.md",
     "03 - Работа/Procapital/Без названия.md",
@@ -210,10 +217,6 @@
     "99 - Шаблоны/ДГТУ.md",
     "02 - ДГТУ/ДГТУ.md",
     "08 - From Web/Что такое event loop?.md",
-    "02 - ДГТУ/Dev/Алгоритмы.md",
-    "02 - ДГТУ/Dev/Dev.md",
-    "03 - Работа/Glyphic/План работы/11 сентября 2024.md",
-    "04 - Проекты/StyleWrap/Ссылки и библиотеки/React Color.md",
     "04 - Проекты/StyleWrap/Ссылки и библиотеки",
     "02 - ДГТУ/Dev",
     "08 - From Web",
@@ -224,13 +227,11 @@
     "07 - Media/Pasted image 20240909224938.png",
     "04 - Проекты/StyleWrap",
     "07 - Media/Pasted image 20240908233552.png",
-    "04 - Проекты",
     "07 - Media/Pasted image 20240908233824.png",
     "07 - Media/Pasted image 20240908233612.png",
     "07 - Media/Pasted image 20240908232113.png",
     "07 - Media/Pasted image 20240908213427.png",
     "icon_512x5122x2x.png",
-    "icon.png",
     "Без названия.canvas"
   ]
 }
