@@ -10,5 +10,7 @@
     "toolbarPretty",
     "colorMainFolders",
     "notebookBG"
-  ]
+  ],
+  "baseFontSize": 16,
+  "baseFontSizeAction": true
 }
