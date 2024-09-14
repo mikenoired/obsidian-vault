@@ -1,11 +1,11 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": true,
-  "collapse-color-groups": false,
+  "showOrphans": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#ДГТУ  ",
@@ -52,14 +52,14 @@
   ],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "textFadeMultiplier": 1.1,
+  "nodeSizeMultiplier": 0.856852213541667,
+  "lineSizeMultiplier": 1.00838216145833,
   "collapse-forces": true,
-  "centerStrength": 0.577015844743775,
-  "repelStrength": 11.4794612044974,
+  "centerStrength": 0.692586263020833,
+  "repelStrength": 10.5973307291667,
   "linkStrength": 1,
-  "linkDistance": 151,
-  "scale": 0.20076196403930538,
+  "linkDistance": 30,
+  "scale": 0.2722315544278779,
   "close": true
 }
