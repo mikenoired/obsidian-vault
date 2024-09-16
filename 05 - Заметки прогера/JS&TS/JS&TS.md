@@ -1,4 +1,4 @@
 #DevNotes/JSTS
-[[isNumber]]
+[[Как удаление isNumber из зависимостей сэкономил 440 Гб еженедельного трафика]]
 [[Event Loop]]
 [[null vs undefined]]
