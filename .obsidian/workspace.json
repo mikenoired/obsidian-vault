@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "00d7a93a141b1560",
+        "id": "2e96c92975840b8d",
         "type": "tabs",
         "children": [
           {
-            "id": "c027daa02ff0ce53",
+            "id": "0f246251f96a4ec6",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -67,9 +67,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "03 - Работа/Procapital/План работы/19 сентября 2024.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -135,7 +133,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Работа/Procapital/План работы/19 сентября 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +149,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Работа/Procapital/План работы/19 сентября 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,15 +184,19 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "37d2b2dde0d29335",
+  "active": "0f246251f96a4ec6",
   "lastOpenFiles": [
+    "01 - Ежедневник/Дни/2024-09-21.md",
+    "01 - Ежедневник/Дни/2024-09-20.md",
+    "03 - Работа/Procapital/План работы/21 сентября 2024.md",
+    "03 - Работа/Procapital/План работы/20 сентября 2024.md",
+    "03 - Работа/Procapital/План работы.md",
+    "03 - Работа/Procapital/План работы/19 сентября 2024.md",
     "03 - Работа/Procapital/План работы/Решение багов по файлу.md",
     "03 - Работа/Procapital/План работы/17 сентября 2024.md",
-    "03 - Работа/Procapital/План работы/19 сентября 2024.md",
     "01 - Ежедневник/Дни/2024-09-18.md",
     "01 - Ежедневник/Дни.md",
     "01 - Ежедневник/Дни/2024-09-19.md",
-    "03 - Работа/Procapital/План работы.md",
     "07 - Media/Pasted image 20240919233208.png",
     "02 - ДГТУ/Dev/Сортировка.md",
     "02 - ДГТУ/Dev/Алгоритмы.md",
@@ -215,9 +215,6 @@
     "01 - Ежедневник/Дни/2024-09-12.md",
     "01 - Ежедневник/Дни/2024-09-09.md",
     "01 - Ежедневник/Дни/2024-09-07.md",
-    "01 - Ежедневник/Дни/2024-09-06.md",
-    "05 - Заметки прогера/JS&TS/Event Loop.md",
-    "08 - From Web/Что такое event loop?.md",
     "05 - Заметки прогера/JS&TS",
     "07 - Media/Pasted image 20240913183354.png",
     "07 - Media/Pasted image 20240913123329.png",
