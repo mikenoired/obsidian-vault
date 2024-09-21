@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "2e96c92975840b8d",
+        "id": "be265905f3c09193",
         "type": "tabs",
         "children": [
           {
-            "id": "0f246251f96a4ec6",
+            "id": "90deefbba155e8e0",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -184,8 +184,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "0f246251f96a4ec6",
+  "active": "90deefbba155e8e0",
   "lastOpenFiles": [
+    "gfsgsdf.md",
+    "03 - Работа/Glyphic/Glyphic.md",
+    "03 - Работа/Работа.md",
     "01 - Ежедневник/Дни/2024-09-21.md",
     "01 - Ежедневник/Дни/2024-09-20.md",
     "03 - Работа/Procapital/План работы/21 сентября 2024.md",
@@ -212,9 +215,6 @@
     "01 - Ежедневник/Дни/2024-09-13.md",
     "03 - Работа/Procapital/План работы/14 сентября 2024.md",
     "05 - Заметки прогера/JS&TS/JS&TS.md",
-    "01 - Ежедневник/Дни/2024-09-12.md",
-    "01 - Ежедневник/Дни/2024-09-09.md",
-    "01 - Ежедневник/Дни/2024-09-07.md",
     "05 - Заметки прогера/JS&TS",
     "07 - Media/Pasted image 20240913183354.png",
     "07 - Media/Pasted image 20240913123329.png",
