@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2d82fefad0865d32",
+        "id": "7836eb5efe837ec3",
         "type": "tabs",
         "children": [
           {
-            "id": "20f990416c6a3c22",
+            "id": "3ca735cbf6337fa1",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -192,8 +192,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "4baa067cb0ca0e80",
+  "active": "3ca735cbf6337fa1",
   "lastOpenFiles": [
+    "05 - Заметки прогера/JS&TS/JS&TS.md",
+    "05 - Заметки прогера/JS&TS/React Native/React Native.md",
+    "05 - Заметки прогера/JS&TS/React Native",
     "01 - Ежедневник/Дни/2024-09-24.md",
     "01 - Ежедневник/Дни.md",
     "01 - Ежедневник/Дни/2024-09-30.md",
@@ -222,8 +225,6 @@
     "03 - Работа/Finup/План работы",
     "03 - Работа/Procapital/План работы/25 сентября 2024.md",
     "03 - Работа/Finup",
-    "03 - Работа/Procapital/План работы/26 сентября 2024.md",
-    "03 - Работа/Procapital/План работы.md",
     "07 - Media/Pasted image 20240919233208.png",
     "07 - Media/Баги_платформа,_аккаунт_и_настройки.pdf",
     "07 - Media/Pasted image 20240917172705.png",
@@ -233,7 +234,6 @@
     "03 - Работа/Procapital/План работы",
     "03 - Работа/Procapital",
     "04 - Проекты/StyleWrap/Ссылки и библиотеки",
-    "02 - ДГТУ/Dev",
     "07 - Media/Untitled.png",
     "07 - Media/Pasted image 20240909224938.png",
     "07 - Media/Pasted image 20240908233552.png",
