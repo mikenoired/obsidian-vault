@@ -1,4 +1,7 @@
 #Web 
+[[OKLCH в CSS. По­че­му мы ушли от RGB и HSL]]
+[[UILabs]]
+[[MagicUI]]
 [[Исследование бездны null и undefined в JavaScript]]
 [[Полный гайд на LLM]]
 [[Полезные настройки Obsidian]]

@@ -2,7 +2,7 @@
 
 | Name                             | Status      | Type         |
 | -------------------------------- | ----------- | ------------ |
-| Vite transform                   | Not started | Performance  |
+| Vite transform                   | Done        | Performance  |
 | Hotkeys                          | Not started | Accessbility |
 | Load settings to SettingsOverlay | Done        | Feature      |
 | Flexible design                  | Not started | Accessbility |
