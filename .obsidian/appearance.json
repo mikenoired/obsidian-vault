@@ -1,16 +1,7 @@
 {
-  "accentColor": "",
-  "theme": "obsidian",
-  "cssTheme": "Vanilla AMOLED",
+  "showRibbon": true,
+  "cssTheme": "Minimal",
   "interfaceFontFamily": "JetBrainsMono Nerd Font",
-  "textFontFamily": "JetBrainsMono Nerd Font Mono",
-  "monospaceFontFamily": "JetBrainsMono Nerd Font",
-  "enabledCssSnippets": [
-    "noneFolders",
-    "toolbarPretty",
-    "colorMainFolders",
-    "notebookBG"
-  ],
-  "baseFontSize": 18,
-  "baseFontSizeAction": true
+  "textFontFamily": "JetBrainsMono Nerd Font",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font"
 }

@@ -1,16 +1,5 @@
 [
-  "obsidian-kanban",
-  "obsidian-git",
-  "obsidian-importer",
-  "emoji-shortcodes",
-  "obsidian-projects",
-  "editing-toolbar",
   "obsidian-icon-folder",
-  "settings-search",
-  "calendar",
-  "obsidian-excalidraw-plugin",
-  "obsidian-smart-typography",
-  "homepage",
-  "obsidian-text-format",
-  "obsidian-reminder-plugin"
+  "obsidian-git",
+  "obsidian-excalidraw-plugin"
 ]

@@ -9,6 +9,5 @@
   "promptDelete": false,
   "alwaysUpdateLinks": true,
   "vimMode": false,
-  "attachmentFolderPath": "Media",
-  "showRibbon": true
+  "attachmentFolderPath": "Media"
 }

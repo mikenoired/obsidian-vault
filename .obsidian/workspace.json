@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "31f4a48071883016",
+        "id": "fca128d0f6ba6cbd",
         "type": "tabs",
         "children": [
           {
-            "id": "4472df5b423be812",
+            "id": "e3bf11b65111d428",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Работа/NoAudio/План работы/5 октября 2024.md",
+                "file": "02 - ДГТУ/Права человека/1. Право в системе социального регулирования.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "1. Право в системе социального регулирования"
             }
           }
         ]
@@ -31,7 +33,6 @@
       {
         "id": "dcb610f290b51242",
         "type": "tabs",
-        "dimension": 58.343057176196034,
         "children": [
           {
             "id": "37d2b2dde0d29335",
@@ -39,8 +40,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -55,7 +59,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
             }
           },
           {
@@ -63,7 +69,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
             }
           },
           {
@@ -72,23 +80,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Работа/NoAudio/План работы/5 октября 2024.md"
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "c676895159cb45db",
-        "type": "tabs",
-        "dimension": 41.656942823803966,
-        "children": [
-          {
-            "id": "41019692d1f2be04",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
+                "file": "05 - Заметки прогера/Tauri/Иконки?.md"
+              },
+              "icon": "lucide-list",
+              "title": "Структура Иконки?"
             }
           }
         ]
@@ -102,91 +97,28 @@
     "type": "split",
     "children": [
       {
-        "id": "255aa3419bd3a5f9",
+        "id": "dbc3a319cfa259ce",
         "type": "tabs",
-        "dimension": 34.88888888888889,
         "children": [
           {
-            "id": "34a2a32743602936",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "4baa067cb0ca0e80",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "b22626a108ec3b50",
-            "type": "leaf",
-            "state": {
-              "type": "reminder-list",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "11031a5db86c68e8",
-        "type": "tabs",
-        "dimension": 65.11111111111111,
-        "children": [
-          {
-            "id": "ae1f93a300677859",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "03 - Работа/NoAudio/План работы/5 октября 2024.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "6ca5fd5f4dd179e1",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "03 - Работа/NoAudio/План работы/5 октября 2024.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "53d05b1969755c9f",
+            "id": "f66a083a9ff04c18",
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 265.5
+    "width": 302.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Создать новую базу": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
@@ -194,60 +126,58 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-importer:Open Importer": false,
-      "obsidian-projects:Open projects": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "homepage:Open homepage": false
+      "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "4472df5b423be812",
+  "active": "e3bf11b65111d428",
   "lastOpenFiles": [
-    "01 - Ежедневник/Дни/2024-10-09.md",
-    "Untitled Kanban.md",
-    "Волны на дорожках.md",
+    "01 - Ежедневник/Дни/2025-09-03.md",
+    "02 - ДГТУ/Права человека/1. Право в системе социального регулирования.md",
+    "02 - ДГТУ/Права человека/Права человека.md",
+    "02 - ДГТУ/Карьера/1. Персональный менеджмент. Сущность и основные понятия.md",
+    "02 - ДГТУ/Права человека",
+    "Алгоритмы сортировки.md",
+    "Media/Pasted Image 20241015165021_866.png",
+    "Excalidraw/Цвет слоёв.md",
+    "Гига таблица для тех. предпринимательства.md",
+    "Архитектурные стили.md",
     "Без названия.canvas",
-    "03 - Работа/NoAudio/План работы/6 октября 2024.md",
-    "03 - Работа/NoAudio/План работы/5 октября 2024.md",
-    "01 - Ежедневник/Дни/2024-10-15.md",
-    "01 - Ежедневник/Дни/2024-10-14.md",
-    "02 - ДГТУ/Вероятность/Свойства математического ожидания.md",
-    "02 - ДГТУ/ДГТУ.md",
-    "02 - ДГТУ/Вероятность/Вероятность.md",
+    "Без названия.md",
+    "Брейншторм.md",
+    "ВИС21 Зюзюкин Игорь.md",
+    "Волны на дорожках.md",
+    "Метод наименьших квадратов.md",
+    "Даня брейншторм.md",
+    "Задачи по дизайну.md",
+    "Изменения на 21 октября.md",
+    "пвыпвы.md",
+    "Обводка слева для дорожек с относящимся цветом.md",
+    "Таблица по коммуникации.md",
+    "пвыпвып.md",
+    "Таблица по тех. преду(поменьше).md",
+    "Таблица(больше).md",
+    "gdgs.md",
+    "тестовое задание чеклист.md",
+    "Треки на добавить.md",
+    "gdsgsdg.md",
+    "02 - ДГТУ/Карьера",
+    "02 - ДГТУ/Архитектура ОС",
+    "04 - Проекты/EchoNote",
+    "Media",
+    "Excalidraw",
     "02 - ДГТУ/Вероятность",
-    "02 - ДГТУ/Без названия.md",
-    "01 - Ежедневник/Дни.md",
-    "01 - Ежедневник/Дни/2024-10-08.md",
-    "01 - Ежедневник/Дни/2024-10-07.md",
-    "03 - Работа/NoAudio/План работы.md",
-    "03 - Работа/NoAudio/План работы/7 октября 2024.md",
-    "gsdg.md",
-    "04 - Проекты/zen.read/UI-UX/UI-UX.md",
-    "08 - From Web/From Web.md",
-    "08 - From Web/OKLCH в CSS. По­че­му мы ушли от RGB и HSL.md",
-    "04 - Проекты/zen.read/Разработка/Daily tasks.md",
-    "04 - Проекты/zen.read/Разработка/Разработка.md",
-    "03 - Работа/Procapital/Procapital.md",
-    "01 - Ежедневник/Дни/2024-10-06.md",
-    "08 - From Web/UILabs.md",
-    "08 - From Web/MagicUI.md",
     "05 - Заметки прогера/JS&TS/React Native",
     "03 - Работа/NoAudio/План работы",
     "03 - Работа/NoAudio",
-    "03 - Работа/Finup/План работы",
-    "03 - Работа/Finup",
     "07 - Media/Pasted image 20240919233208.png",
-    "07 - Media/Баги_платформа,_аккаунт_и_настройки.pdf",
     "07 - Media/Pasted image 20240917172705.png",
-    "05 - Заметки прогера/JS&TS",
     "07 - Media/Pasted image 20240913183354.png",
     "07 - Media/Pasted image 20240913123329.png",
-    "03 - Работа/Procapital/План работы",
-    "03 - Работа/Procapital",
     "07 - Media/Untitled.png",
     "07 - Media/Pasted image 20240909224938.png",
     "07 - Media/Pasted image 20240908233552.png",
     "07 - Media/Pasted image 20240908233824.png",
-    "07 - Media/Pasted image 20240908233612.png",
-    "07 - Media/Pasted image 20240908232113.png"
+    "07 - Media/Pasted image 20240908233612.png"
   ]
 }
