@@ -13,3 +13,6 @@
 [[Сайт для написания математики – Corca]]
 [[Замедление интерфейса для солидности]]
 [[Сайты для быстрого ресёрча]]
+[[Epoch Semantic Versioning]]
+[[Гайд по контейнеризации. От Докера до поиска баланса]]
+[[Why I’m skeptical of rewriting JavaScript tools in “faster” languages]]

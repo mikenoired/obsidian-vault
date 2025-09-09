@@ -4,35 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "36612cfe3552d35c",
+        "id": "8ad878ad4c8aa69c",
         "type": "tabs",
         "children": [
           {
-            "id": "6d607b4de9837b5b",
+            "id": "b30c088d9032552a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Ежедневник/Дни/2025-09-09.md",
+                "file": "02 - ДГТУ/Dev/Алгоритмы сортировки.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-09"
+              "title": "Алгоритмы сортировки"
             }
           },
           {
-            "id": "cbf84ab1c35bdc09",
+            "id": "fe36041a6f3a895f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - ДГТУ/Вероятность/Комбинаторика.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Комбинаторика"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
             }
           }
         ],
@@ -48,6 +44,7 @@
       {
         "id": "dcb610f290b51242",
         "type": "tabs",
+        "dimension": 58.52803738317757,
         "children": [
           {
             "id": "37d2b2dde0d29335",
@@ -68,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "28",
+                "query": "Алгоритмы",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,6 +96,23 @@
               },
               "icon": "lucide-list",
               "title": "Структура Иконки?"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ca03a935caf11165",
+        "type": "tabs",
+        "dimension": 41.47196261682243,
+        "children": [
+          {
+            "id": "c396e30348003d27",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]
@@ -161,53 +175,54 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "cbf84ab1c35bdc09",
+  "active": "fe36041a6f3a895f",
   "lastOpenFiles": [
-    "02 - ДГТУ/Вероятность/Комбинаторика.md",
-    "07 - Media/Pasted image 20250909084249.png",
-    "03 - Работа/Procapital/План работы.md",
-    "07 - Media/Pasted image 20250909084104.png",
-    "07 - Media/Pasted image 20250909083951.png",
-    "07 - Media/Pasted image 20250909083859.png",
+    "02 - ДГТУ/Dev/Алгоритмы сортировки.md",
+    "02 - ДГТУ/Dev/Dev.md",
+    "02 - ДГТУ/Dev/Алгоритмы.md",
+    "Без названия 1.base",
+    "04 - Проекты/Synapse/Теги.md",
+    "04 - Проекты/Synapse/Synapse.md",
+    "04 - Проекты/Synapse/UX-концепция.md",
+    "04 - Проекты/Synapse/Без названия",
+    "04 - Проекты/Проекты.md",
+    "04 - Проекты/Synapse",
+    "02 - ДГТУ/Предпринимательство/Гига таблица для тех. предпринимательства.md",
+    "Без названия.base",
+    "README.md",
+    "06 - Свободные заметки/Maria_Photo session.md",
+    "06 - Свободные заметки/Свободные заметки.md",
+    "06 - Свободные заметки/Монастырь, в котором бога нет.md",
+    "06 - Свободные заметки/какой-то сценарий.md",
+    "06 - Свободные заметки/Брутализм. От Баухауса до худи на Wildberries.md",
     "01 - Ежедневник/Дни/2025-09-09.md",
-    "02 - ДГТУ/Вероятность/Вероятность.md",
-    "02 - ДГТУ/Вероятность/Свойства математического ожидания.md",
-    "Excalidraw/Drawing 2025-09-05 10.26.06.excalidraw.md",
-    "02 - ДГТУ/Алгоритмы/2. Блок-схемы.md",
     "08 - From Web/From Web.md",
-    "07 - Media/Pasted image 20250905103004.png",
-    "07 - Media/Pasted image 20250905101948.png",
-    "Excalidraw/Drawing 2025-09-05 09.30.44.excalidraw.md",
-    "08 - From Web/Сайты для быстрого ресёрча.md",
-    "07 - Media/Pasted image 20250905093556.png",
-    "07 - Media/Pasted image 20250905093246.png",
-    "07 - Media/Pasted image 20250905092459.png",
-    "Excalidraw/Drawing 2025-09-05 09.21.45.excalidraw.md",
-    "07 - Media/Pasted image 20250905091734.png",
-    "01 - Ежедневник/Дни/2025-09-05.md",
-    "Excalidraw/Drawing 2025-09-05 09.15.33.excalidraw.md",
-    "Excalidraw/Drawing 2025-09-05 09.08.16.excalidraw.md",
-    "08 - From Web/Замедление интерфейса для солидности.md",
-    "08 - From Web/Сайт для написания математики – Corca.md",
-    "Excalidraw/Drawing 2025-09-05 09.01.29.excalidraw.md",
-    "08 - From Web/Сборник материалов для обучения Rust от Гугла.md",
+    "08 - From Web/Why I’m skeptical of rewriting JavaScript tools in “faster” languages.md",
+    "02 - ДГТУ/ДГТУ.md",
+    "02 - ДГТУ/Прочее/Прочее.md",
+    "02 - ДГТУ/Прочее/Гайд по методичке по анализам.md",
+    "02 - ДГТУ/Прочее/Алгебра и аналитическая геометрия (часть I).md",
+    "02 - ДГТУ/Прочее/Таблица по коммуникации.md",
+    "02 - ДГТУ/Численные методы/Метод наименьших квадратов.md",
+    "02 - ДГТУ/Предпринимательство/Таблица по тех. преду(поменьше).md",
+    "gdgs.md",
+    "Таблица(больше).md",
+    "02 - ДГТУ/Прочее",
+    "02 - ДГТУ/Численные методы",
+    "07 - Media/Pasted image 20250909103441.png",
+    "07 - Media/Pasted image 20250909103127.png",
+    "07 - Media/Pasted image 20250909102657.png",
+    "07 - Media/Pasted image 20250909102614.png",
+    "07 - Media/Pasted image 20250909102147.png",
+    "07 - Media/Pasted image 20250909101951.png",
+    "07 - Media/Pasted image 20250909094525.png",
+    "07 - Media/Pasted image 20250909094459.png",
+    "07 - Media/Pasted image 20250909084249.png",
+    "07 - Media/Pasted image 20250909084104.png",
     "08 - From Web/Без названия",
-    "08 - From Web/Нереализованный потанцевал?.md",
-    "08 - From Web/Про критику.md",
-    "08 - From Web/Что такое event loop?.md",
-    "02 - ДГТУ/Алгоритмы/1. Сигнал, данные.md",
-    "01 - Ежедневник/Дни/2025-09-04.md",
-    "02 - ДГТУ/Предпринимательство/1. Сущность предпринимательства как социальное экономическое явление.md",
-    "02 - ДГТУ/Алгоритмы/Алгоритмы.md",
     "Excalidraw",
     "Media",
     "02 - ДГТУ/Алгоритмы",
-    "02 - ДГТУ/Предпринимательство",
-    "02 - ДГТУ/Алгоритмы",
-    "02 - ДГТУ/Права человека",
-    "Без названия.canvas",
-    "02 - ДГТУ/Карьера",
-    "02 - ДГТУ/Архитектура ОС",
-    "04 - Проекты/EchoNote"
+    "Без названия.canvas"
   ]
 }
