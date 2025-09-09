@@ -4,35 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "aaec24c7e080a613",
+        "id": "36612cfe3552d35c",
         "type": "tabs",
         "children": [
           {
-            "id": "478e435d59593359",
+            "id": "6d607b4de9837b5b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - ДГТУ/Алгоритмы/2. Блок-схемы.md",
+                "file": "01 - Ежедневник/Дни/2025-09-09.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Блок-схемы"
+              "title": "2025-09-09"
             }
           },
           {
-            "id": "beac3c5934284835",
+            "id": "cbf84ab1c35bdc09",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - ДГТУ/Алгоритмы/2. Блок-схемы.md",
+                "file": "02 - ДГТУ/Вероятность/Комбинаторика.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Блок-схемы"
+              "title": "Комбинаторика"
             }
           }
         ],
@@ -126,6 +126,22 @@
             }
           }
         ]
+      },
+      {
+        "id": "5dd60a23933bf2cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9b82a56d757694f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -145,54 +161,54 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "beac3c5934284835",
+  "active": "c9b82a56d757694f",
   "lastOpenFiles": [
+    "03 - Работа/Procapital/План работы.md",
+    "02 - ДГТУ/Вероятность/Комбинаторика.md",
+    "07 - Media/Pasted image 20250909084104.png",
+    "07 - Media/Pasted image 20250909083951.png",
+    "07 - Media/Pasted image 20250909083859.png",
+    "01 - Ежедневник/Дни/2025-09-09.md",
+    "02 - ДГТУ/Вероятность/Вероятность.md",
+    "02 - ДГТУ/Вероятность/Свойства математического ожидания.md",
+    "Excalidraw/Drawing 2025-09-05 10.26.06.excalidraw.md",
+    "02 - ДГТУ/Алгоритмы/2. Блок-схемы.md",
+    "08 - From Web/From Web.md",
+    "07 - Media/Pasted image 20250905103004.png",
+    "07 - Media/Pasted image 20250905101948.png",
+    "Excalidraw/Drawing 2025-09-05 09.30.44.excalidraw.md",
+    "08 - From Web/Сайты для быстрого ресёрча.md",
+    "07 - Media/Pasted image 20250905093556.png",
+    "07 - Media/Pasted image 20250905093246.png",
+    "07 - Media/Pasted image 20250905092459.png",
+    "Excalidraw/Drawing 2025-09-05 09.21.45.excalidraw.md",
     "07 - Media/Pasted image 20250905091734.png",
     "01 - Ежедневник/Дни/2025-09-05.md",
     "Excalidraw/Drawing 2025-09-05 09.15.33.excalidraw.md",
-    "02 - ДГТУ/Алгоритмы/2. Блок-схемы.md",
     "07 - Media/Pasted image 20250905090939.png",
     "Excalidraw/Drawing 2025-09-05 09.08.16.excalidraw.md",
-    "08 - From Web/From Web.md",
     "08 - From Web/Замедление интерфейса для солидности.md",
     "08 - From Web/Сайт для написания математики – Corca.md",
     "Excalidraw/Drawing 2025-09-05 09.01.29.excalidraw.md",
-    "07 - Media/Pasted image 20250905090310.png",
     "08 - From Web/Сборник материалов для обучения Rust от Гугла.md",
     "08 - From Web/Без названия",
     "08 - From Web/Нереализованный потанцевал?.md",
-    "07 - Media/telegram-cloud-photo-size-2-5291796692955427647-y.jpg",
     "08 - From Web/Про критику.md",
     "08 - From Web/Что такое event loop?.md",
-    "07 - Media/Pasted image 20250905083952.png",
     "02 - ДГТУ/Алгоритмы/1. Сигнал, данные.md",
-    "07 - Media/Pasted image 20250905083914.png",
     "01 - Ежедневник/Дни/2025-09-04.md",
     "02 - ДГТУ/Предпринимательство/1. Сущность предпринимательства как социальное экономическое явление.md",
     "02 - ДГТУ/Алгоритмы/Алгоритмы.md",
     "02 - ДГТУ/Интерфейс/Лабораторная работа №1.md",
-    "02 - ДГТУ/Вероятность/Свойства математического ожидания.md",
-    "02 - ДГТУ/Вероятность/Вероятность.md",
-    "06 - Свободные заметки/Свободные заметки.md",
-    "Excalidraw/Drawing 2025-09-04 09.03.46.excalidraw.md",
     "Excalidraw",
-    "Excalidraw/Drawing 2025-09-04 09.00.40.excalidraw.md",
-    "07 - Media/Pasted image 20250904090250.png",
     "Media",
-    "01 - Ежедневник/Дни.md",
-    "02 - ДГТУ/ДГТУ.md",
     "02 - ДГТУ/Алгоритмы",
-    "01 - Ежедневник/Дни/2025-09-03.md",
     "02 - ДГТУ/Предпринимательство",
     "02 - ДГТУ/Алгоритмы",
     "02 - ДГТУ/Права человека",
-    "Media/Pasted Image 20241015165021_866.png",
     "Без названия.canvas",
     "02 - ДГТУ/Карьера",
     "02 - ДГТУ/Архитектура ОС",
-    "04 - Проекты/EchoNote",
-    "07 - Media/Pasted image 20240919233208.png",
-    "07 - Media/Pasted image 20240917172705.png",
-    "07 - Media/Pasted image 20240913183354.png"
+    "04 - Проекты/EchoNote"
   ]
 }
