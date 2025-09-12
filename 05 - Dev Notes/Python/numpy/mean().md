@@ -21,7 +21,7 @@ numpy.mean(a, axis=None, dtype=None, out=None, keepdims=False)
     result = np.mean(arr)
     print(result)
     ```
-    **Результат**: `3.0`
+    **Результат**: `3.0`.
 
 2. Среднее вдоль указанной оси:
     ```python
@@ -29,11 +29,11 @@ numpy.mean(a, axis=None, dtype=None, out=None, keepdims=False)
     
     # Среднее по строкам (ось 1)
     mean_by_rows = np.mean(arr_2d, axis=1)
-    print(mean_by_rows)  # Output: [2. 5.]
+    print(mean_by_rows)  # Output: [2.0, 5.0]
 
     # Среднее по столбцам (ось 0)
     mean_by_columns = np.mean(arr_2d, axis=0)
-    print(mean_by_columns)  # Output: [2.5 3.5 4.5]
+    print(mean_by_columns)  # Output: [2.5, 3.5, 4.5]
     ```
 
 ### Примечания:

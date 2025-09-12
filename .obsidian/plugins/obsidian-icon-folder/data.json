@@ -39,9 +39,9 @@
   "02 - ДГТУ": "LiSchool",
   "03 - Работа": "LiWorkflow",
   "04 - Проекты": "LiFileCheck",
-  "05 - Заметки прогера": "LiLibrary",
   "06 - Свободные заметки": "LiWind",
   "07 - Media": "LiImage",
   "99 - Шаблоны": "LiToyBrick",
-  "08 - From Web": "LiLink"
+  "08 - From Web": "LiLink",
+  "05 - Dev Notes": "LiLibrary"
 }
